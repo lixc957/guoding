@@ -1,0 +1,57 @@
+import Vue from 'vue'
+import { 
+  NavBar,
+  Form,
+  Field,
+  Button,
+  Checkbox,
+  Toast,
+  Tabbar, 
+  TabbarItem,
+  Cell, 
+  CellGroup,
+  Popup,
+  Picker,
+  Area,
+  Dialog,
+  Uploader,
+  Icon,
+  List,
+  Search,
+  DropdownMenu, 
+  DropdownItem,
+  Circle,
+  IndexBar, 
+  IndexAnchor,
+  RadioGroup, 
+  Radio,
+  CheckboxGroup,
+  Sticky  } from 'vant'
+
+Vue.use(NavBar)
+Vue.use(Form)
+Vue.use(Field)
+Vue.use(Button)
+Vue.use(Checkbox)
+Vue.use(Toast)
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(Cell)
+Vue.use(CellGroup)
+Vue.use(Popup)
+Vue.use(Picker)
+Vue.use(Area)
+Vue.use(Dialog)
+Vue.use(Uploader)
+Vue.use(Icon)
+Vue.use(List)
+Vue.use(Search)
+Vue.use(DropdownMenu)
+Vue.use(DropdownItem)
+Vue.use(Circle)
+Vue.use(IndexBar)
+Vue.use(IndexAnchor)
+Vue.use(Radio)
+Vue.use(RadioGroup)
+Vue.use(CheckboxGroup)
+Vue.use(Sticky)

@@ -1,0 +1,31 @@
+@import "./normalize.css";
+@import "./iconfont.css";
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+i {
+	font-style: normal;
+}
+
+li {
+	list-style: none;
+}
+
